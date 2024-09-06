@@ -22,11 +22,24 @@ h3
 }
 #img-section
 {
-    margin-bottom: 0px;
     display: block;
     background-color: antiquewhite;
 }
-#personal-section {
-    padding: 15px;
-    margin: 20px;
+
+#personal-section{
+    margin: 10px;
+    float: right;
+    background-color: antiquewhite;
+    padding: 5px 33px 5px 20px;
+}
+
+#course-section{
+    float: left;
+    margin-top: 10px;
+    margin-left: 10px;
+    background-color: aliceblue;
+    padding: 0px 10px 0px 10px;
+}
+#course-section h3{
+    margin-left: 10px;
 }
