@@ -2,11 +2,11 @@ body { background-color: lightgrey;}
 p { 
     line-height: 30px; 
     font-size: 20px;
-    color: white;
+    color: black;
 }
 h3
 {
-    color: white;
+    color: rgb(0, 0, 0);
 }
 #info-section {
     margin: 10px 10px 10px 10px;
@@ -14,7 +14,7 @@ h3
 }
 #text-section 
 {
-    background-color: orange;
+    background-color: #E1F2FE;
     padding: 5px 20px 5px 20px;
     display: block;
     float: left;
