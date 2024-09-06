@@ -70,7 +70,7 @@ a:visited {
     color: white;
 } 
 a:hover { 
-    text-decoration: underline solid black 4px;
+    text-decoration: underline solid white 5px;
     color: black; 
 } 
 a:active { 
