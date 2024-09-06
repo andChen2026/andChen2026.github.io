@@ -1,0 +1,14 @@
+body { background-color: #ffffff; }
+p { 
+    line-height: 30px; 
+    font-size: 17px;
+}
+#info-section {
+    border: 2px solid black;
+    margin: 10px 10px 10px 10px;
+}
+#text-section 
+{
+    border-right: 2px solid black;
+    margin: 5px 5px 20px 20px;
+}
