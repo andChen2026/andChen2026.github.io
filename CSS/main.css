@@ -1,4 +1,4 @@
-body { background-color: black;}
+body { background-color: lightgrey;}
 p { 
     line-height: 30px; 
     font-size: 20px;
@@ -14,7 +14,7 @@ h3
 }
 #text-section 
 {
-    background-color: grey;
+    background-color: orange;
     padding: 5px 20px 5px 20px;
     display: block;
     float: left;
