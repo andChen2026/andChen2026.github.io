@@ -46,6 +46,11 @@ h3
     margin-left: 10px;
     margin-top: 25px;
 }
+#course-section li {
+    text-decoration: none;
+    list-style-type: none;
+    margin-left: -30px;
+}
 #nav-bar {
     margin-top: 5%;
     padding-bottom: 5%;
