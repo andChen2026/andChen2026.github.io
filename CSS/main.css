@@ -1,26 +1,30 @@
-body { background-color: white; }
+body { background-color: black;}
 p { 
     line-height: 30px; 
     font-size: 20px;
+    color: white;
+}
+h3
+{
+    color: white;
 }
 #info-section {
-    border: 2px solid black;
     margin: 10px 10px 10px 10px;
-    padding-bottom: 50px;
+    padding-bottom: 8px;
 }
 #text-section 
 {
-    /*
-    margin: 10px 10px 20px 20px;
-    */
-    padding-left: 30px;
+    background-color: grey;
+    padding: 5px 20px 5px 20px;
     display: block;
     float: left;
     position: relative;
 }
 #img-section
 {
+    margin-bottom: 0px;
     display: block;
+    background-color: antiquewhite;
 }
 #personal-section {
     padding: 15px;
